@@ -12,7 +12,7 @@ from telethon import TelegramClient, events, Button
 # =========================
 API_ID = 8477522
 API_HASH = "366c19cf69e02cad530261ad81212a85"
-BOT_TOKEN = "8659591236:AAGMCysp5Ntx-L4_6XJ3tzwiNMqlPbaS6Kw"
+BOT_TOKEN = "8905180217:AAHolnzXvlZ8Xen1Rt0ZaWztXEaqHtZ2qn4"
 
 client = TelegramClient(
     "canada_bot",
